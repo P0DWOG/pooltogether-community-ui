@@ -76,7 +76,7 @@ const PoolsLists = () => {
 
   return (
     <>
-      <UsersPoolsCard createdPrizePools={createdPrizePools} tokenBalances={tokenBalances} />
+      //<UsersPoolsCard createdPrizePools={createdPrizePools} tokenBalances={tokenBalances} />
       <GovernancePoolsCard createdPrizePools={createdPrizePools} tokenBalances={tokenBalances} />
       <AllPoolsCard createdPrizePools={createdPrizePools} tokenBalances={tokenBalances} />
       <ReferencePoolCard />
