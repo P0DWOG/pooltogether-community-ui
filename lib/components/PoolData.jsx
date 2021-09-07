@@ -75,7 +75,7 @@ const InvalidAddress = (props) => {
   return (
     <>
       <div className='border-2 border-primary px-7 py-4 rounded-xl mb-10 text-accent-1'>
-        <h1>⚠️ Invalid address dude</h1>
+        <h1>⚠️ Invalid address</h1>
         <p>
           <b>{invalidAddress}</b> is not a valid prize pool address on <b>{networkView}</b>.
         </p>
