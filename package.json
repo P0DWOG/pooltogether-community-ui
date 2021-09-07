@@ -7,7 +7,7 @@
     "clean": "rm -rf .next",
     "dev": "next dev",
     "test": "jest",
-    "build": "direnv allow && next build && next export && yarn postexport",
+    "build": "next build && next export && yarn postexport",
     "start": "next start",
     "postexport": "node post-export.js",
     "release": "./scripts/sentry-release.sh",
