@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 export const Meta = (props) => {
   let { title } = props
-  const defaultTitle = 'win.mune.finance'
+  const defaultTitle = 'Mune Lottery'
   title = title ? `${title} - ${defaultTitle}` : defaultTitle
 
   const url = `https://win.mune.finance`
