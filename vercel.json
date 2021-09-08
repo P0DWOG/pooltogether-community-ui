@@ -1,9 +1,0 @@
-{
-
-  "rewrites":  [
-
-    {"source": "/pools/:networkName/:prizePoolAddress/home", "destination": "/pools/[networkName]/[prizePoolAddress]/home.html"}
-
-  ]
-
-}
