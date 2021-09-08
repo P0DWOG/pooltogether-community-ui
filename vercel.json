@@ -2,7 +2,7 @@
 
   "rewrites":  [
 
-    {"source": "/(.*)", "destination": "/pools/[networkName]/[prizePoolAddress]/home.html"}
+    {"source": "/pools/:networkName/:prizePoolAddress/home", "destination": "/pools/[networkName]/[prizePoolAddress]/home.html"}
 
   ]
 
