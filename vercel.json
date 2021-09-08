@@ -2,7 +2,7 @@
 
   "rewrites":  [
 
-    {"source": "/(.*)", "destination": "/"}
+    {"source": "/(.*)", "destination": "/pools/matic/0x25f9e0925e3d5215333f7431e93746205f7543c6/home"}
 
   ]
 
