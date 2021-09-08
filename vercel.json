@@ -1,3 +1,0 @@
-{
-  "routes": [{ "src": "pools/:networkName", "dest": "/pools/[networkName].html", "status": 200 }]
-}
