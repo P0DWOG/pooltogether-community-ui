@@ -41,3 +41,25 @@ console.log(allConfig)
 console.log('')
 
 module.exports = allConfig
+
+
+
+module.exports = {
+
+  async rewrites() {
+
+    return [
+
+      {
+
+        source: '/pools/:networkName*',
+
+        destination: '/pools/[networkName].html', // The :path parameter isn't used here so will be automatically passed in the query
+
+      },
+
+    ]
+
+  },
+
+}
