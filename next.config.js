@@ -41,7 +41,3 @@ console.log(allConfig)
 console.log('')
 
 module.exports = allConfig
-
-module.exports = {
-  trailingSlash: true,
-}
