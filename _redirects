@@ -2,7 +2,7 @@
 /:poolAlias/manage                            /[poolAlias]/manage.html                            200
 /:poolAlias                                   /[poolAlias].html                                   200
 
-/pools/:networkName/:prizePoolAddress/home    /pools/[networkName]/[0x25f9e0925e3d5215333f7431e93746205f7543c6]/home.html   200
+/pools/:networkName/:prizePoolAddress/home    /pools/[networkName]/[prizePoolAddress]/home.html   200
 /pools/:networkName/:prizePoolAddress/manage  /pools/[networkName]/[prizePoolAddress]/manage.html 200
 /pools/:networkName/:prizePoolAddress/admin   /pools/[networkName]/[prizePoolAddress]/admin.html  200
 /pools/:networkName/:prizePoolAddress         /pools/[networkName]/[prizePoolAddress].html        200
