@@ -2,13 +2,13 @@ import Head from 'next/head'
 
 export const Meta = (props) => {
   let { title } = props
-  const defaultTitle = 'PoolTogether - Community Pools'
+  const defaultTitle = 'Mune Charity'
   title = title ? `${title} - ${defaultTitle}` : defaultTitle
 
-  const url = `https://community.pooltogether.com`
-  const description = `View, deposit and withdraw for all V3 Pools`
-  const keywords = 'ethereum'
-  const twitterHandle = '@PoolTogether_'
+  const url = `https://play.mune.finance`
+  const description = `Play for everyone.`
+  const keywords = 'Polygon'
+  const twitterHandle = '@MuneFinance'
 
   return (
     <>
