@@ -5,8 +5,7 @@
 
 @font-face {
   font-family: 'DM Mono';
-  src: url('/fonts/DMMono-Regular.woff2') format('woff2'),
-    url('/fonts/DMMono-Regular.woff') format('woff');
+  src: url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -14,8 +13,7 @@
 
 @font-face {
   font-family: 'Titillium Web';
-  src: url('/fonts/TitilliumWeb-Regular.woff2') format('woff2'),
-    url('/fonts/TitilliumWeb-Regular.woff') format('woff');
+  src: url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -23,8 +21,7 @@
 
 @font-face {
   font-family: 'Titillium Web';
-  src: url('/fonts/TitilliumWeb-Bold.woff2') format('woff2'),
-    url('/fonts/TitilliumWeb-Bold.woff') format('woff');
+  src: url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
