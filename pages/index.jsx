@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { IndexContent } from 'lib/components/IndexContent'
+import { PoolTogetherLoading } from 'lib/components/PoolTogetherLoading'
 
 export default function IndexPage() {
-  return <IndexContent />
+  return <PoolTogetherLoading />
 }
