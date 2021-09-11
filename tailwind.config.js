@@ -186,12 +186,7 @@ module.exports = {
           'Noto Color Emoji'
         ],
         'headline': [
-          'omnes-pro',
-          'Roboto',
-          'Helvetica Neue',
-          'Arial',
-          'Noto Sans',
-          'sans-serif',
+          'VT323',
           'Apple Color Emoji',
           'Segoe UI Emoji',
           'Segoe UI Symbol',
