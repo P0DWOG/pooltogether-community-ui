@@ -161,7 +161,12 @@ module.exports = {
       },
       fontFamily: {
         'sans-regular': [
-          'VT323',
+          'Titillium Web',
+          'Roboto',
+          'Helvetica Neue',
+          'Arial',
+          'Noto Sans',
+          'sans-serif',
           'Apple Color Emoji',
           'Segoe UI Emoji',
           'Segoe UI Symbol',
@@ -181,13 +186,18 @@ module.exports = {
           'Noto Color Emoji'
         ],
         'headline': [
-          'VT323',
+          'omnes-pro',
+          'Roboto',
+          'Helvetica Neue',
+          'Arial',
+          'Noto Sans',
+          'sans-serif',
           'Apple Color Emoji',
           'Segoe UI Emoji',
           'Segoe UI Symbol',
           'Noto Color Emoji'
         ],
-        'sans': ['VT323']
+        'sans': ['Roboto', 'Helvetica', 'Arial', 'sans-serif']
       },
       opacity: {
         '0': '0',
