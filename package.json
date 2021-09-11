@@ -38,7 +38,6 @@
     "@next/bundle-analyzer": "^10.1.1"
   },
   "dependencies": {
-    "@P0DWOG/pooltogether-hooks": "^0.1.0",
     "@pooltogether/bnc-onboard": "1.25.0-b",
     "@pooltogether/current-pool-data": "3.4.23",
     "@pooltogether/etherplex": "1.1.1",
@@ -68,6 +67,7 @@
     "js-cookie": "^2.2.1",
     "next": "10.1.1",
     "next-images": "^1.7.0",
+    "pooltogether-hooks": "git://github.com/P0DWOG/pooltogether-hooks.git#main"
     "postcss-easy-import": "^3.0.0",
     "react": "17.0.2",
     "react-copy-to-clipboard": "^5.0.2",
