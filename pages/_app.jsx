@@ -4,7 +4,7 @@ import {
   useInitInfuraId,
   useInitReducedMotion
 } from '@pooltogether/hooks'
-import { useInitialzeOnboard } from './useInitializeOnboard.ts'
+import { useInitialzeOnboard } from 'lib/useInitializeOnboard.ts'
 import * as Sentry from '@sentry/react'
 import { Integrations } from '@sentry/tracing'
 import { Provider as JotaiProvider } from 'jotai'
