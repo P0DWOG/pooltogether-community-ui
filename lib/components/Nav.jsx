@@ -21,12 +21,12 @@ export const Nav = (props) => {
                 <img
                   alt={`PoolTogether Logo`}
                   src={PoolLogo}
-                  className='mr-auto lg:m-0 w-6 hidden sm:block'
+                  className='mr-auto lg:m-0 w-8 hidden sm:block'
                 />
                 <img
                   alt={`PoolTogether P Logo`}
                   src={PoolPLogo}
-                  className='mr-auto lg:m-0 w-6 block sm:hidden'
+                  className='mr-auto lg:m-0 w-8 block sm:hidden'
                 />
               </a>
             </Link>
