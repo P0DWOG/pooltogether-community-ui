@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react'
 import {
   useInitCookieOptions,
+  useInitializeOnboard,
   useInitInfuraId,
   useInitReducedMotion
 } from '@pooltogether/hooks'
-import { useInitialzeOnboard } from 'lib/useInitializeOnboard.ts'
 import * as Sentry from '@sentry/react'
 import { Integrations } from '@sentry/tracing'
 import { Provider as JotaiProvider } from 'jotai'
