@@ -39,7 +39,7 @@ export const Footer = () => {
             <a
               title='auditAndSecurityInfo'
               className='trans mr-4'
-              href='https://docs.mune.finance'
+              href='https://docs.pooltogether.com/security/audits-and-testing'
             >
               audits
             </a>
