@@ -114,7 +114,7 @@
   --color-text-highlight-1: #4c249f;
   --color-text-highlight-2: #7f51d1;
   --color-text-highlight-3: #3857ee;
-  --color-text-whitesmoke: #FFEDF8;
+  --color-text-whitesmoke: rgba(255, 102, 245, 0.9);
   --color-text-red-1: #e61b1b;
   --color-text-green-1: #5af5db;
   --color-text-green-2: #31b073;
