@@ -7,43 +7,43 @@ import DiscordLogo from 'assets/images/discord-footer.svg'
 import TwitterFooterLogo from 'assets/images/twitter-footer.svg'
 
 export const Footer = () => {
-  let mailHref = 'mailto:hello@pooltogether.com'
-  let twitterHref = 'https://twitter.com/PoolTogether_'
+  let mailHref = 'mailto: munefinance@protonmail.com'
+  let twitterHref = 'https://twitter.com/MuneFinance'
 
   return (
     <footer className='footer w-full text-default text-sm sm:px-8 lg:px-0 mt-48'>
       <div className='nav-and-footer-container'>
         <div className='flex flex-col sm:flex-row justify-between mt-3 sm:mt-4 lg:mt-6 pb-5 lg:pb-8'>
           <div className=''>
-            <a title='faq' className='trans mr-4 sm:ml-8' href='https://www.pooltogether.com/faq'>
-              faq
+            <a title='Docs' className='trans mr-4 sm:ml-8' href='https://docs.mune.finance'>
+              Docs
             </a>
             {/* <a
-          title='readTheFAQ'
+          title='Docs'
           className='trans mr-4'
-          href='https://www.pooltogether.com/faq'
+          href='https://docs.mune.finance'
         >
-          faq
+          Docs
         </a>
 
         <a
           title='seeStats'
           className='trans mr-4'
-          href='https://www.pooltogether.com/#stats'
+          href='https://docs.mune.finance'
         >
           stats
         </a> */}
-            <a title='readTerms' className='trans mr-4' href='https://www.pooltogether.com/terms'>
+            <a title='readTerms' className='trans mr-4' href='https://docs.mune.finance'>
               terms
             </a>
             <a
               title='auditAndSecurityInfo'
               className='trans mr-4'
-              href='https://www.pooltogether.com/audits'
+              href='https://docs.mune.finance'
             >
               audits
             </a>
-            <a title='getAnswers' className='trans mr-4' href='https://help.pooltogether.com'>
+            <a title='getAnswers' className='trans mr-4' href='https://docs.mune.finance'>
               help
             </a>
           </div>
@@ -61,7 +61,7 @@ export const Footer = () => {
 
               <a
                 className='img-link inline-block trans mr-3 lg:mr-0 lg:ml-4 w-5 h-5 '
-                href='https://discord.gg/hxPhPDW'
+                href='https://discord.gg/ZB2t26MtgX'
                 target='_blank'
                 rel='noreferrer noopener'
               >
@@ -70,7 +70,7 @@ export const Footer = () => {
 
               <a
                 className='img-link inline-block trans mr-3 lg:mr-0 lg:ml-4 w-5 h-5 '
-                href='https://github.com/pooltogether'
+                href='https://github.com/MuneFinance'
                 target='_blank'
                 rel='noreferrer noopener'
               >
@@ -79,7 +79,7 @@ export const Footer = () => {
 
               <a
                 className='img-link inline-block trans mr-3 lg:mr-0 lg:ml-4 w-5 h-5 '
-                href='https://medium.com/pooltogether'
+                href='https://medium.com/munefinance'
                 target='_blank'
                 rel='noreferrer noopener'
               >
