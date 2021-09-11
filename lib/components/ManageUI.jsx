@@ -68,7 +68,7 @@ const ManageHeader = () => {
           size='base'
           color='secondary'
           className='mt-6'
-          href='https://docs.pooltogether.com/'
+          href='https://docs.mune.finance/'
         >
           View documentation
         </ButtonLink>
