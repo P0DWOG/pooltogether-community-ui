@@ -1,4 +1,4 @@
-/* https://play.mune.finance/q/home#deposit.html 200
+
 /:poolAlias/home                              /[poolAlias]/home.html                              200
 /:poolAlias/manage                            /[poolAlias]/manage.html                            200
 /:poolAlias                                   /[poolAlias].html                                   200
