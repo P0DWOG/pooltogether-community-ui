@@ -21,7 +21,7 @@ export const Nav = (props) => {
                 <img
                   alt={`PoolTogether Logo`}
                   src={PoolLogo}
-                  className='mr-auto lg:m-0 w-32 hidden sm:block'
+                  className='mr-auto lg:m-0 w-6 hidden sm:block'
                 />
                 <img
                   alt={`PoolTogether P Logo`}
