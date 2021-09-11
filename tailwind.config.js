@@ -263,7 +263,7 @@ module.exports = {
           '700': '#6039BB',
           '800': '#451ba7',
           '900': '#3c1a79',
-          '1000': '#2c1259'
+          '1000': '#FCFCFC'
         },
         purple: {
           ...colors.purple,
