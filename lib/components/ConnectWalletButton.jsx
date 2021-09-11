@@ -1,5 +1,5 @@
 import React from 'react'
-import { useOnboard } from '@P0DWOG/pooltogether-hooks'
+import { useOnboard } from 'pooltogether-hooks'
 
 import { Button } from 'lib/components/Button'
 
