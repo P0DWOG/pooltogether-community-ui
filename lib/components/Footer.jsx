@@ -43,8 +43,8 @@ export const Footer = () => {
             >
               audits
             </a>
-            <a title='getAnswers' className='trans mr-4' href='https://docs.mune.finance'>
-              help
+            <a title='getAnswers' className='trans mr-4' href='https://docs.pooltogether.com'>
+              Powered by PoolTogether
             </a>
           </div>
 
