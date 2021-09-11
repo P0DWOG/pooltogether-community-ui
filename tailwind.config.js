@@ -162,7 +162,6 @@ module.exports = {
       fontFamily: {
         'sans-regular': [
           'VT323',
-          'sans-serif',
           'Apple Color Emoji',
           'Segoe UI Emoji',
           'Segoe UI Symbol',
