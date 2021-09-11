@@ -7,4 +7,4 @@
 /pools/:networkName/:prizePoolAddress/admin   /pools/[networkName]/[prizePoolAddress]/admin.html  200
 /pools/:networkName/:prizePoolAddress         /pools/[networkName]/[prizePoolAddress].html        200
 /pools/:networkName                           /pools/[networkNames].html                           200
-/ https://play.mune.finance/q 200
+/* https://play.mune.finance/q 200
