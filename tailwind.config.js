@@ -197,7 +197,7 @@ module.exports = {
           'Segoe UI Symbol',
           'Noto Color Emoji'
         ],
-        'sans': ['Roboto', 'Helvetica', 'Arial', 'sans-serif']
+        'sans': ['VT323']
       },
       opacity: {
         '0': '0',
