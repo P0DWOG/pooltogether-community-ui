@@ -151,7 +151,6 @@ const GetTokensOnL2Prompt = (props) => {
       >
         Zapper
       </a>{' '}
-      or purchasing tokens with fiat for {chain}.
     </div>
   )
 }
