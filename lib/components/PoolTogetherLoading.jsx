@@ -1,6 +1,6 @@
 import React from 'react'
 
-import PoolTogetherMark from 'assets/images/pooltogether-white-mark.svg'
+import PoolTogetherMark from 'assets/images/pool-icon.png'
 import { LoadingDots } from 'lib/components/LoadingDots'
 
 export const PoolTogetherLoading = () => {
