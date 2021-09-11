@@ -5,8 +5,8 @@ import { ConnectWalletButton } from 'lib/components/ConnectWalletButton'
 import { WalletInfo } from 'lib/components/WalletInfo'
 import { useWalletNetwork } from 'lib/hooks/useWalletNetwork'
 
-import PoolLogo from 'assets/images/pooltogether-logo.svg'
-import PoolPLogo from 'assets/images/pooltogether-white-mark.svg'
+import PoolLogo from 'assets/images/pool-icon.png'
+import PoolPLogo from 'assets/images/pool-icon.png'
 
 export const Nav = (props) => {
   const { walletConnected } = useWalletNetwork()
