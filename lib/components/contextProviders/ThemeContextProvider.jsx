@@ -18,7 +18,7 @@ export function ThemeContextProvider(props) {
     let stored = Cookies.get(THEME)
 
     const body = document.body
-    body.classList.add('theme-dark')
+    body.classList.add('theme-light')
 
     // if (typeof window !== 'undefined' && window.matchMedia) {
     //   const setThemeAutomatically = (newValue) => {
@@ -56,9 +56,9 @@ export function ThemeContextProvider(props) {
       body.classList.remove('theme-light')
       body.classList.add('theme-dark')
 
-      Cookies.set(THEME, 'dark', COOKIE_OPTIONS)
+      Cookies.set(THEME, 'light', COOKIE_OPTIONS)
 
-      setTheme('dark')
+      setTheme('light')
     }
   }
 
