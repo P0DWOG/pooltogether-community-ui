@@ -161,11 +161,7 @@ module.exports = {
       },
       fontFamily: {
         'sans-regular': [
-          'Titillium Web',
-          'Roboto',
-          'Helvetica Neue',
-          'Arial',
-          'Noto Sans',
+          'VT323',
           'sans-serif',
           'Apple Color Emoji',
           'Segoe UI Emoji',
