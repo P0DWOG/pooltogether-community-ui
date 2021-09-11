@@ -12,7 +12,7 @@ export function ThemeContextProvider(props) {
   //   return null
   // }
 
-  const [theme, setTheme] = useState('dark')
+  const [theme, setTheme] = useState('light')
 
   useEffect(() => {
     let stored = Cookies.get(THEME)
