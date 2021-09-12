@@ -106,7 +106,7 @@ export const NewPrizeCountdown = (props) => {
           <LeftSideJsx digit={daysArray.length < 2 ? 0 : daysArray[0]} />
           <RightSideJsx digit={daysArray.length > 1 ? daysArray[1] : daysArray[0]} />
         </div>
-        <div className='text-caption text-xs sm:text-base'>DAY</div>
+        <div className='text-caption text-xs sm:text-base text-black'>DAY</div>
       </div>
       <div
         className='flex flex-col'
@@ -119,7 +119,7 @@ export const NewPrizeCountdown = (props) => {
           <LeftSideJsx digit={hoursArray.length < 2 ? 0 : hoursArray[0]} />
           <RightSideJsx digit={hoursArray.length > 1 ? hoursArray[1] : hoursArray[0]} />
         </div>
-        <div className='text-caption text-xs sm:text-base'>HR</div>
+        <div className='text-caption text-xs sm:text-base text-black'>HR</div>
       </div>
       <div className={`text-${textColor} px-0 sm:px-1`}>:</div>
       <div
@@ -133,7 +133,7 @@ export const NewPrizeCountdown = (props) => {
           <LeftSideJsx digit={minutesArray.length < 2 ? 0 : minutesArray[0]} />
           <RightSideJsx digit={minutesArray.length > 1 ? minutesArray[1] : minutesArray[0]} />
         </div>
-        <div className='text-caption text-xs sm:text-base'>MIN</div>
+        <div className='text-caption text-xs sm:text-base text-black'>MIN</div>
       </div>
       <div className={`text-${textColor} px-0 sm:px-1`}>:</div>
       <div
@@ -147,7 +147,7 @@ export const NewPrizeCountdown = (props) => {
           <LeftSideJsx digit={secondsArray.length < 2 ? 0 : secondsArray[0]} />
           <RightSideJsx digit={secondsArray.length > 1 ? secondsArray[1] : secondsArray[0]} />
         </div>
-        <div className='text-caption text-xs sm:text-base'>SEC</div>
+        <div className='text-caption text-xs sm:text-base text-black'>SEC</div>
       </div>
       {msg}
     </div>
