@@ -1,4 +1,4 @@
-eturnt React, { useMemo } from 'react'
+import React, { useMemo } from 'react'
 
 import { Card, InnerCard } from 'lib/components/Card'
 import { Collapse } from 'lib/components/Collapse'
