@@ -125,7 +125,7 @@ const SinglePrizeItem = (props) => {
       <span className='font-bold text-6xl sm:text-9xl mr-4 my-auto text-flashy'>
         {token.formattedBalance}
       </span>
-      <span className='font-bolt text-sm sm:text-4xl mt-auto mb-2'>{token.symbol}</span>
+      <span className='font-bold font-black text-sm sm:text-4xl mt-auto mb-2'>{token.symbol}</span>
     </div>
   )
 }
