@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+eturnt React, { useMemo } from 'react'
 
 import { Card, InnerCard } from 'lib/components/Card'
 import { Collapse } from 'lib/components/Collapse'
@@ -67,12 +67,12 @@ const Row = (props) => {
 
   return (
     <tr>
-      <RowDataCell first className='font-bold'>
+      <RowDataCell first className='font-bold text-black'>
         {formattedBalance}
       </RowDataCell>
-      <RowDataCell>{name}</RowDataCell>
-      <RowDataCell>{symbol}</RowDataCell>
-      <RowDataCell className='text-accent-1'>{source}</RowDataCell>
+      <RowDataCell className='text-black'>{name}</RowDataCell>
+      <RowDataCell className='text-black'>{symbol}</RowDataCell>
+      <RowDataCell className='text-black'>{source}</RowDataCell>
     </tr>
   )
 }
