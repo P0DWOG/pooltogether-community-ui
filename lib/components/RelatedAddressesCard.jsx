@@ -55,7 +55,7 @@ const Row = (props) => {
 
   return (
     <tr>
-      <RowDataCell first className='font-bold'>
+      <RowDataCell first className='font-bold text-black'>
         {contract}
       </RowDataCell>
       <RowDataCell>
