@@ -63,7 +63,7 @@ export const CardPrimaryText = (props) => {
   return (
     <div
       className={classnames(
-        'flex items-center justify-center py-2 leading-none font-bold text-white',
+        'flex items-center justify-center py-2 leading-none font-bold text-black',
         props.className,
         textClasses,
         {
