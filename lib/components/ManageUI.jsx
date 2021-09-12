@@ -92,7 +92,7 @@ const PoolAddress = () => {
         <h5 className='font-normal mx-auto flex'>
           <BlockExplorerLink
             address={prizePoolContracts.prizePool.address}
-            className='text-white'
+            className='text-black'
           />
           <CopyIcon text={prizePoolContracts.prizePool.address} className='ml-4' />
         </h5>
