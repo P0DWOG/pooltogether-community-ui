@@ -94,7 +94,7 @@ const PoolAddress = () => {
             address={prizePoolContracts.prizePool.address}
             className='text-black'
           />
-          <CopyIcon text={prizePoolContracts.prizePool.address} className='ml-4' />
+          <CopyIcon text={prizePoolContracts.prizePool.address} className='ml-4 text-black' />
         </h5>
       </Card>
     </>
