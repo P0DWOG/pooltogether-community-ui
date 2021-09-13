@@ -11,7 +11,7 @@ import { RelativeNavLinks } from 'lib/components/RelativeNavLinks'
 import { CopyIcon } from 'lib/components/CopyIcon'
 import { usePrizePoolContracts } from 'lib/hooks/usePrizePoolContracts'
 
-import ManageImage from 'assets/images/manage-image.svg'
+import ManageImage from 'assets/images/manage-image.png'
 
 const MANAGE_VIEW = Object.freeze({
   stats: '#stats',
