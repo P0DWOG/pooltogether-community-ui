@@ -15,7 +15,7 @@ export const Footer = () => {
       <div className='nav-and-footer-container'>
         <div className='flex flex-col sm:flex-row justify-between mt-3 sm:mt-4 lg:mt-6 pb-5 lg:pb-8'>
           <div className=''>
-            <a title='Docs' className='trans mr-4 sm:ml-8' href='https://docs.mune.finance'>
+            <a title='Docs' className='trans mr-4 sm:ml-8' href='https://docs.mune.finance/mune-charity-lottery/'>
               Docs
             </a>
             {/* <a
@@ -33,7 +33,7 @@ export const Footer = () => {
         >
           stats
         </a> */}
-            <a title='readTerms' className='trans mr-4' href='https://docs.mune.finance'>
+            <a title='readTerms' className='trans mr-4' href='https://docs.mune.finance/mune-charity-lottery/terms'>
               terms
             </a>
             <a
