@@ -33,7 +33,7 @@ export const Footer = () => {
         >
           stats
         </a> */}
-            <a title='readTerms' className='trans mr-4' href='https://docs.mune.finance/mune-charity-lottery/terms'>
+            <a title='readTerms' className='trans mr-4' href='https://docs.mune.finance/mune-charity-lottery/terms/'>
               terms
             </a>
             <a
