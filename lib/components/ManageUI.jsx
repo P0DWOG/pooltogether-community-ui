@@ -68,7 +68,7 @@ const ManageHeader = () => {
           size='base'
           color='secondary'
           className='mt-6'
-          href='https://docs.mune.finance/'
+          href='https://docs.mune.finance/mune-charity-lottery/about'
         >
           View documentation
         </ButtonLink>
