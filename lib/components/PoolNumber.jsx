@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-const SPLIT_LENGTH = 10
+const SPLIT_LENGTH = 2
 
 export function PoolNumber(props) {
   const [firstPart, setFirstPart] = useState(null)
